@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<frame size="400,400" title="Hello Oleg">
+    <panel constraints="BorderLayout.NORTH">
+        <label font="ARIAL-BOLD-16" foreground="blue" text="Hello Oleg, how are you?"/>
+
+    </panel>
+    <panel constraints="BorderLayout.SOUTH">
+        <button text="click Here"/>
+
+    </panel>
+
+</frame>

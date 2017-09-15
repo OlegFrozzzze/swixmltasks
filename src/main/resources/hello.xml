@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<frame size="400,400" title="Hello">
+    <panel constraints="BorderLayout.NORTH">
+        <label font="ARIAL-BOLD-16" foreground="blue" text="Hello man how are you?"/>
+    </panel>
+    <panel constraints="BorderLayout.SOUTH">
+        <button text="click Here" />
+
+    </panel>
+
+</frame>

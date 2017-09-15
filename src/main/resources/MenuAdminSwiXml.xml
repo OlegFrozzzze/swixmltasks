@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<frame size="400,400" title="Hello admin">
+    <panel >
+        <button constraints="BorderLayout.NORTH" text = "NORTH"/>
+        <button constraints="BorderLayout.SOUTH" text="click Here" />
+    </panel>
+</frame>
